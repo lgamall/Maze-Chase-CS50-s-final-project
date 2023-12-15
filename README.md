@@ -1,6 +1,6 @@
 # Maze Chase!
 
-#### Video Demo:  <https://youtu.be/_b8FLCQArNA>
+#### Video Demo:  <https://youtu.be/3txN-h0Bpr4?si=ujHRgve65axasXra>
 
 #### Description: The game is about running in an auto generated maze till you find the treasure while being chased
 
